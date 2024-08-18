@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Prathamesh Sawle 👋
 
-<!--
-**Prathamesh-20/Prathamesh-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a tech enthusiast who loves working on innovative projects. I have skills in:
+- **Programming Languages**: Java, Python, C, Embedded-C
+- **Web Technologies**: HTML, CSS, JavaScript, SQL
+- **Tools**: Git, MATLAB, VS Code, Microsoft Excel
 
-Here are some ideas to get you started:
+## Interests
+- Web Development 🌐
+- Artificial Intelligence 🤖
+- Embedded Systems 🔌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me!
+
